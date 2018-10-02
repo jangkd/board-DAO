@@ -3,6 +3,10 @@
 	<name>model1-board-DAO</name>
 	<comment></comment>
 	<projects>
+<<<<<<< HEAD
+=======
+		<project>mysql-connector-java-5.1.40</project>
+>>>>>>> refs/remotes/origin/master
 	</projects>
 	<buildSpec>
 		<buildCommand>
